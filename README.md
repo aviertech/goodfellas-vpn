@@ -1,13 +1,13 @@
+# Goodfellas VPN is a collaborative effort of four friends to bypass the Iranian government imposed restrictions to the Internet.
+
 ![./Goodfellas.jpg](./Goodfellas.jpg)
 
 
-# Summary
-
-## Main Client Tools
-|Platform|Client / App|
+## We recommend the following technologies to cirumvent the Internet restrictions based on platform.
+|Platform|Technology|
 |--|--|
-|Android|[OpenVPN Connect](https://play.google.com/store/apps/details?id=net.openvpn.openvpn)|
-|iOS|[OpenVPN Connect](https://itunes.apple.com/us/app/openvpn-connect/id590379981?mt=8)
-|Windows|[OpenVPN Connect for Windows](https://openvpn.net/client-connect-vpn-for-windows/)|
-|MacOS|[OpenVPN Connect for macOS](https://openvpn.net/client-connect-vpn-for-mac-os/)|
-|Linux|[OpenVPN 3 for Linux](https://openvpn.net/openvpn-client-for-linux/)|
+|Android|[V2Ray](./V2Ray)|
+|iOS|[OpenVPN](./OpenVPN)
+|Windows|[OpenVPN](./OpenVPN)
+|MacOS|[OpenVPN](./OpenVPN)
+|Linux|[OpenVPN](./OpenVPN)
