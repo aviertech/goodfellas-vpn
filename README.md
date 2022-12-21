@@ -1,4 +1,5 @@
-# Goodfellas VPN is a collaborative effort of four friends to circumvent the restriction on the people of Iran for their access to the Internet.
+# Goodfellas VPN
+### A collaborative effort by four friends to circumvent the restrictions on Iraninas in their access to the Internet.
 
 ![./Goodfellas.jpg](./Goodfellas.jpg)
 
