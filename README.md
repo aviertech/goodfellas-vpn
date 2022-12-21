@@ -1,1 +1,1 @@
-![Goodfellas](https://github.com/aviertech/goodfellas-vpn/blob/main/Goodfellas.jpg)
+![./Goodfellas.jpg](./Goodfellas-749565197-large.jpg))
