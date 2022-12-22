@@ -1,3 +1,4 @@
+[فارسی](./README_fa.md)
 # V2Ray
 
 Please refer to the following table for useful clients/apps for each platform.
