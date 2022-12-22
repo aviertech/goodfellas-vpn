@@ -4,7 +4,7 @@
 ![./Goodfellas.jpg](./Goodfellas.jpg)
 
 
-## We recommend the following technologies to cirumvent the Internet restrictions based on platform.
+## We recommend the following technologies to circumvent the Internet restrictions based on platform.
 |Platform|Technology (preferred)|Alternative technologies|
 |--|--|--|
 |Android|[V2Ray](./V2Ray)|
