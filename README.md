@@ -5,10 +5,10 @@
 
 
 ## We recommend the following technologies to cirumvent the Internet restrictions based on platform.
-|Platform|Technology|
-|--|--|
+|Platform|Technology (preferred)|Alternative technologies|
+|--|--|--|
 |Android|[V2Ray](./V2Ray)|
-|iOS|[OpenVPN](./OpenVPN)
+|iOS|[V2Ray](./V2Ray)|[OpenVPN](./OpenVPN)|
 |Windows|[OpenVPN](./OpenVPN)
 |MacOS|[OpenVPN](./OpenVPN)
 |Linux|[OpenVPN](./OpenVPN)
