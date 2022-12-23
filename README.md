@@ -1,3 +1,5 @@
+[فارسی](./README_fa.md)
+
 # Goodfellas VPN
 ### A collaborative effort by four friends to circumvent the restrictions on Iraninas in their access to the Internet.
 
